@@ -1,0 +1,99 @@
+
+  .c{color:#0099ED;}span
+  
+  body h1,h2,h3,h4,h5,h6,p{
+     font-family: "Montserrat", sans-serif;
+	 
+     
+     
+  }
+ 
+ .topmargin{margin-top:13px;}
+ 
+  .margintoptoggle{margin-top:14px;}
+ 
+ 
+  .navbar {
+      margin-bottom: 0;
+      background-color: black;
+     
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      
+      border-radius: 0;
+      font-family: Montserrat, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: black !important;transition:0.5s;
+     
+  }
+  
+  
+  #packages .maxwidth{
+	  max-width:900px;
+  }
+  
+ #packages .w3-row-padding,
+.w3-row-padding > .w3-col l6 m6 {
+  
+}
+  
+  
+
+  .padding-top{padding:150px 0px 60px 0px;}
+  
+  
+  .bg{background:#B8BDBF}
+  .nomi li{color:white}
+  /*social icons*/
+  .fa {
+  padding: 10px;
+  font-size: 19px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+/* parallex effect for price section*/
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url('../images/elect.jpg');
+  min-height: 100%;
+}
+
+
+
+
+
+
+.circleborder img {width:85%;}
